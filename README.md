@@ -1,11 +1,12 @@
 # NestJS Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [NestJS Jobs](https://algojobs.io/jobs/nestjs)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 03/31/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3640764) | [Ghost](https://algojobs.io/company/ghost/) | $165K - $200K | Los Angeles, New York, or US Remote (NY, CA, WA, NJ, AL, IL, AK, TX, NV, PA, OR, VA) |
 | 03/29/2025 | [Software Engineer I (ReactJS/NextJS)](https://algojobs.io/jobs/3620203) | [Contentstack](https://algojobs.io/company/contentstack/) | N/A | Virar |
 | 03/28/2025 | [Backend Engineer](https://algojobs.io/jobs/3622382) | [Agreena](https://algojobs.io/company/agreena-1/) | N/A | Europe, Remote |
 | 03/28/2025 | [Backend Engineer](https://algojobs.io/jobs/3622363) | [Gendo](https://algojobs.io/company/gendo/) | N/A | London/Bristol |
@@ -21,7 +22,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/25/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3584994) | [Agreena](https://algojobs.io/company/agreena-1/) | N/A | Europe, Remote |
 | 03/25/2025 | [Full Stack Developer](https://algojobs.io/jobs/3581239) | [Catena Media](https://algojobs.io/company/catenamedia/) | N/A | Malta (Hybrid) |
 | 03/25/2025 | [Senior Full Stack Developer](https://algojobs.io/jobs/3581241) | [Catena Media](https://algojobs.io/company/catenamedia/) | N/A | Malta (Hybrid) |
-| 03/24/2025 | [Software Engineer III](https://algojobs.io/jobs/3564424) | [Walmart](https://algojobs.io/company/walmart/) | N/A | IN KA BANGALORE Home Office PW II, India |
 | 03/24/2025 | [Sr Software Engineer - Full Stack](https://algojobs.io/jobs/3572251) | [Blue Yonder](https://algojobs.io/company/jda/) | N/A | Dallas, United States of America |
 | 03/24/2025 | [Senior Full Stack Developer with React](https://algojobs.io/jobs/3580410) | [Teramind](https://algojobs.io/company/teramind-1/) | N/A | Serbia (Remote) |
 | 03/21/2025 | [Software Engineer-II](https://algojobs.io/jobs/3544788) | [NCR](https://algojobs.io/company/ncr/) | N/A | KAYABACHO TOKYO, JPN, Japan |
@@ -43,7 +43,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/19/2025 | [Software Engineer III](https://algojobs.io/jobs/3515807) | [NCR](https://algojobs.io/company/ncr/) | N/A | CEBU CITY, PHL, Philippines |
 | 03/19/2025 | [Software Engineer II](https://algojobs.io/jobs/3515812) | [NCR](https://algojobs.io/company/ncr/) | N/A | CEBU CITY, PHL, Philippines |
 | 03/19/2025 | [Software Engineer II](https://algojobs.io/jobs/3515832) | [NCR](https://algojobs.io/company/ncr/) | N/A | CEBU CITY, PHL, Philippines |
-| 03/19/2025 | [Software Engineer I](https://algojobs.io/jobs/3515834) | [NCR](https://algojobs.io/company/ncr/) | N/A | CEBU CITY, PHL, Philippines |
 | 03/19/2025 | [Staff Software Engineer - Web Apps](https://algojobs.io/jobs/3528091) | [doxy.me](https://algojobs.io/company/doxy.me/) | N/A | London, UK |
 | 03/18/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3511556) | [Tempus](https://algojobs.io/company/tempus/) | $110K - $160K | Chicago |
 | 03/18/2025 | [Software Engineer II - (AngularJs / React.Js & Japanese)](https://algojobs.io/jobs/3500995) | [NCR](https://algojobs.io/company/ncr/) | N/A | CHENNAI, IND, India |
@@ -102,10 +101,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/19/2025 | [Senior Fullstack Engineer](https://algojobs.io/jobs/3203345) | [Huspy](https://algojobs.io/company/huspy/) | N/A | Poland |
 | 02/19/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3203357) | [Huspy](https://algojobs.io/company/huspy/) | N/A | Germany |
 | 02/19/2025 | [Senior Fullstack Engineer](https://algojobs.io/jobs/3203349) | [Huspy](https://algojobs.io/company/huspy/) | N/A | Germany |
-| 02/19/2025 | [Senior Software Engineer/Developer](https://algojobs.io/jobs/3194026) | [Fidelity](https://algojobs.io/company/fmr/) | N/A | Salt Lake City, UT, United States of America |
 | 02/19/2025 | [Staff Software Engineer (NodeJS/DevOps)](https://algojobs.io/jobs/3202562) | [Printify](https://algojobs.io/company/printify/) | N/A | Riga, Tallinn or remotely / Poland / Spain / ... |
-| 02/19/2025 | [Sr. Software Engineer - Evinova](https://algojobs.io/jobs/3207895) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | Spain - Barcelona |
-| 02/19/2025 | [Sr. Software Engineer - Evinova](https://algojobs.io/jobs/3207897) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | Spain - Barcelona |
 | 02/19/2025 | [Full Stack Developer - French Fluent](https://algojobs.io/jobs/3205742) | [Paradox](https://algojobs.io/company/paradox/) | N/A | Dubai |
 | 02/18/2025 | [Software Engineer- Full Stack](https://algojobs.io/jobs/3187788) | [Talkiatry](https://algojobs.io/company/talkiatry/) | $135K - $155K | Remote |
 | 02/18/2025 | [Senior Software Engineer, Documents](https://algojobs.io/jobs/3187688) | [GoodLeap](https://algojobs.io/company/goodleap/) | $137K - $160K | Dallas, TX / Lehi, UT / Plano, TX / ... (Hybrid) |
@@ -118,26 +114,16 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/12/2025 | [Senior Software Engineer (Full- Stack)](https://algojobs.io/jobs/3136457) | [AG1](https://algojobs.io/company/ag1/) | $165K - $180K | US (Remote) |
 | 02/12/2025 | [Software Engineering Team Lead](https://algojobs.io/jobs/3134998) | [Bash.com](https://algojobs.io/company/bashdotcom/) | N/A | Cape Town |
 | 02/12/2025 | [Software Quality Engineer](https://algojobs.io/jobs/3121406) | [Chorus Innovations](https://algojobs.io/company/chorusinnovations/) | $100K - $120K | Long Beach, CA (Hybrid) |
+| 02/12/2025 | [Software Engineer, Operations](https://algojobs.io/jobs/3123980) | [Carry](https://algojobs.io/company/carry/) | N/A | Remote |
 | 02/11/2025 | [Senior Staff Engineer - Backend](https://algojobs.io/jobs/3123957) | [Choco](https://algojobs.io/company/choco/) | N/A | Berlin |
 | 02/10/2025 | [Staff Backend Engineer (Social)](https://algojobs.io/jobs/3308501) | [Phantom](https://algojobs.io/company/phantom/) | $200K - $250K | Remote |
 | 02/07/2025 | [Senior Full-Stack Developer](https://algojobs.io/jobs/3092537) | [Exadel Inc](https://algojobs.io/company/exadelinc/) | N/A | Georgia, Hungary, Lithuania, Poland, Uzbekistan |
 | 02/07/2025 | [Software Engineer II - PaaS](https://algojobs.io/jobs/3075869) | [Qualtrics](https://algojobs.io/company/qualtrics/) | N/A | Mexico City, Mexico |
-| 02/07/2025 | [Engineer - Front End Developer](https://algojobs.io/jobs/3080862) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | India - Chennai |
 | 02/07/2025 | [Web Developer Intern](https://algojobs.io/jobs/3101930) | [GPC](https://algojobs.io/company/genpt/) | N/A | Birmingham, AL, USA, United States of America |
 | 02/07/2025 | [Web Developer Intern](https://algojobs.io/jobs/3101937) | [GPC](https://algojobs.io/company/genpt/) | N/A | Birmingham, AL, USA, United States of America |
 | 02/06/2025 | [Senior Backend Engineer, Distributed Systems](https://algojobs.io/jobs/3075706) | [Labelbox](https://algojobs.io/company/labelbox/) | N/A | Wrocław, Poland |
-| 02/05/2025 | [[Job-19518] Senior Fullstack Developer (Angular/React, Java/NestJS), Campinas, Brasil (Presencial)](https://algojobs.io/jobs/3056087) | [CI&T](https://algojobs.io/company/ciandt/) | N/A | Campinas, SP |
 | 02/04/2025 | [Staff Software Engineer, Wayfinder](https://algojobs.io/jobs/3047391) | [Sofar Ocean](https://algojobs.io/company/sofarocean/) | $170K - $210K | San Francisco |
 | 02/04/2025 | [Senior Backend Engineer, Distributed Systems](https://algojobs.io/jobs/3047041) | [Labelbox](https://algojobs.io/company/labelbox/) | $190K - $225K | San Francisco Bay Area |
 | 02/04/2025 | [Software Engineer](https://algojobs.io/jobs/3051866) | [Amplify](https://algojobs.io/company/amplify/) | $113K - $129K | Remote - United States, United States of America |
 | 02/03/2025 | [Software Engineer II, Service](https://algojobs.io/jobs/3041148) | [Rivian](https://algojobs.io/company/ca-rivian/) | N/A | Belgrade, RS |
 | 02/01/2025 | [Intermediate Front-end Software Engineer](https://algojobs.io/jobs/3014757) | [Apply Digital](https://algojobs.io/company/applydigital/) | N/A | Delhi (Hybrid) |
-| 01/31/2025 | [Software Engineer](https://algojobs.io/jobs/3309143) | [Lorikeet](https://algojobs.io/company/lorikeet/) | N/A | Sydney, Australia HQ |
-| 01/31/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3309137) | [Lorikeet](https://algojobs.io/company/lorikeet/) | N/A | Sydney, Australia HQ |
-| 01/30/2025 | [Backend Engineer - Berlin Based (m/w/x)](https://algojobs.io/jobs/3001412) | [Grover](https://algojobs.io/company/grover/) | N/A | Berlin HQ |
-| 01/30/2025 | [Lead Developer Experience Engineer](https://algojobs.io/jobs/3003547) | [Careers at Tide](https://algojobs.io/company/tide/) | N/A | Lithuania |
-| 01/30/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2999846) | [Burq, Inc.](https://algojobs.io/company/burq/) | N/A | Canada (Remote) |
-| 01/30/2025 | [Technical Lead, Software Development](https://algojobs.io/jobs/3008980) | [KLA](https://algojobs.io/company/kla/) | N/A | Chennai, India |
-| 01/30/2025 | [Technical Lead, Software Development](https://algojobs.io/jobs/3008983) | [KLA](https://algojobs.io/company/kla/) | N/A | Chennai, India |
-| 01/29/2025 | [Senior AI Backend Engineer (Node.js / NestJS)](https://algojobs.io/jobs/2991073) | [Choco](https://algojobs.io/company/choco/) | N/A | Berlin |
-| 01/28/2025 | [Senior Software Engineer (L3)](https://algojobs.io/jobs/2975540) | [Clipboard Health](https://algojobs.io/company/clipboardhealth/) | N/A | Remote |
